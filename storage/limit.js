@@ -11,7 +11,7 @@ const checkDataLimit = (sender) => {
             return status
         }
 const addLimitData = (sender) => {
-            const obj = { id: sender, limit: 15 }
+            const obj = { id: sender, limit: 50 }
             _LIMIT.push(obj)
             fs.writeFileSync('./storage/user/limit.json', JSON.stringify(_LIMIT))
         }
