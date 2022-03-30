@@ -8,16 +8,16 @@
 "prefix":"#",
 "banchat": false,
 "autoread": false,
-"autoketik": false,
+"autoketik": true,
 "autorecording": true,
 "autobio": false,
 "zekais_api":"D6w9YSkr",
 "apikeyss":"a895d24c3f8a422b9a2a5731f99ae7c4",
 "DANGER":{
-      "seru":"[ ❗ ]",
+      "seru":"[ 🌹 ]",
        "qu":"[ _query_ ]",
 
-        "link":"[ _Masukan linknya❗_ ]",
+        "link":"[ _Masukan linknya🥀_ ]",
          "username":"[ _Username_ ]",
           "sets":"[ on/off ]",
            "rc":"[ _reply/caption_ ]",
@@ -30,9 +30,9 @@
                   "ks":"[ _kodebahasa_ _teks_ ]"
                },
 "donasi":{ 
-     "gopay":"083168004413",
-      "gopayimg":"https://f.top4top.io/p_2252t7a7n1.jpg",
-       "pulsa":"083811034750"
+     "gc":"https://chat.whatsapp.com/HoA34yrBsNRAhZH4TKxqhp",
+      "gopay":"https://f.top4top.io/p_2252t7a7n1.jpg",
+       "pulsa":"083811034750 jngn lupa donasi ya kak soalnya bot juga butuh kuota:)"
          },
 "textpro":{
       "blackpink":"https://textpro.me/create-blackpink-logo-style-online-1001.html",
